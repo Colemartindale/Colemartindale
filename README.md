@@ -4,7 +4,7 @@ I have fun learning new technologies and pushing myself to think critically whil
 
 I am currently learning Python and TypeScript to expand my knowledge.
 
-🌵 Check me out on (LinkedIn)[https://www.linkedin.com/in/cole-martindale-385045147/]
+🌵 Check me out on [LinkedIn](https://www.linkedin.com/in/cole-martindale-385045147/)
 
 <!--
 **Colemartindale/Colemartindale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
