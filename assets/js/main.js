@@ -397,7 +397,7 @@
             email: document.querySelector("#input-email").value,
             message: document.querySelector("#input-message").value
           };
-          for (key in params){
+          for (key in params){   
             if (!params[key]){
               errors.push(key)
             }
@@ -408,7 +408,7 @@
             setTimeout(() => errorDisplay.innerText = "", 4000)
           } else {
             document.getElementById("contact-submit").value = "Sending";
-            emailjs.send("gmail", "portfolio_contact_form", params)  
+            emailjs.send("gmail", "template_e41is3w", params)  
             .then(() => {
               document.getElementById("contact-form").reset();
               document.getElementById("contact-submit").value = "Sent!";

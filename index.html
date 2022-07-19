@@ -35,7 +35,14 @@
       gtag('js', new Date());
       gtag('config', 'UA-176718134-1');
     </script>
-
+    <script type="text/javascript"
+    src="https://cdn.jsdelivr.net/npm/@emailjs/browser@3/dist/email.min.js">
+    </script>
+    <script type="text/javascript">
+      (function(){
+          emailjs.init("0V_lrVklhDJm0MicM");
+      })();
+    </script>
   </head>
   <body class="is-preload">
     <!-- Wrapper -->
@@ -291,7 +298,7 @@
               </div>
               <div class="field half">
                 <label for="email">Email</label>
-                <input type="text" name="email" id="input-email" />
+                <input type="email" name="email" id="input-email" />
               </div>
               <div class="field">
                 <label for="message">Message</label>
@@ -691,6 +698,6 @@ print 'It took ' + i + ' iterations to sort the deck.';</code></pre>
     <script src="assets/js/breakpoints.min.js"></script>
     <script src="assets/js/util.js"></script>
     <script src="assets/js/main.js"></script>
-    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/emailjs-com@2.4.1/dist/email.min.js"></script>    
+    
   </body>
 </html>
