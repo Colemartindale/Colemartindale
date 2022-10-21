@@ -1,4 +1,4 @@
-I am a Frontend Software Developer with a passion for React, Redux, Javascript, HTML, CSS, SASS and Ruby on Rails. Whether it is design, graphic art, music production or programming, I have always enjoyed exploring and growing my creative side in all walk of life.
+I am a Fullstack Software Developer with a passion for React, Redux, Javascript, HTML, CSS, SASS and Ruby on Rails. Whether it is design, graphic art, music production or programming, I have always enjoyed exploring and growing my creative side in all walk of life.
 
 I have fun learning new technologies and pushing myself to think critically while using them. When brainstorming ideas, the user experience is at the forefront of my thoughts as I strive to build an interface around that which would be most responive and intuitive for them.
 
